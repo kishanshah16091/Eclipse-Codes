@@ -20,6 +20,6 @@ public class ifElse {
 			continue;
 			
 			}
-			System.out.println(n);
+			System.out.println();
 	}	
-}}
+}

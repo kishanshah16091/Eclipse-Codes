@@ -15,7 +15,7 @@ public class PossibleIssue {
 		System.out.println(name);
 		
 		System.out.println("Please enter you age");
-		int age=scan.nextLint();
+		
 		
 
 	}

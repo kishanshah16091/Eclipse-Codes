@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class logicalOr {
 
-	private static Object ;
+
 
 	public static void main(String[] args) {
 		String day="Sunday";
@@ -26,7 +26,7 @@ public class logicalOr {
  */
 				Scanner input =new Scanner(System.in);
 				System.out.println("please enter the day");
-				day= scan.nextLine();
+				day= input.nextLine();
 				if (day .equals("Monday") || day.equals("Friday")) {
 					System.out.println("There is no class today");
 				}

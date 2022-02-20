@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class hW06 {
 
-	private static final int area = 0;
+
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -12,7 +12,7 @@ Scanner input = new Scanner(System.in);
 		
 	int rectangle;
 	int square;
-
+int area;
 		System.out.println("Please enter the length");
 		int lentgh =input.nextInt();
 		System.out.println("Please enter the width");

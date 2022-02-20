@@ -14,7 +14,7 @@ public class ReplitP {
 
 		System.out.println("Please enter your age");
 		int age = in.nextInt();
-		if (gender==true) && (age > 25) {
+		if (gender1==true)   {
 			System.out.println("Woman");
 
 		} else if (age==25) {

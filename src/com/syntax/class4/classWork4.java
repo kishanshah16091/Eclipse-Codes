@@ -18,11 +18,11 @@ public class classWork4 {
 			System.out.println("You are eligable let's check weight");
 			if (weight >=110) {
 				System.out.println("You are eligable to donate your blood");
-		}else {
+		}else  {
 
 			System.out.println(" Sorry you are not eligable for donate your blood");
 			
-		}else {
+		}else  {
 			System.out.println("You are not eligible by age");
 	}
 	}
