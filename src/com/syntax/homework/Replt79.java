@@ -8,11 +8,12 @@ public class Replt79 {
 		// TODO Auto-generated method stub
 
 		int[][] arr = { { 1, 4, 2, 0, 3, 3, 2, 0 }, { 4, 0, 1, 5, 6, 1, 1, 0 }, { 1, 2, 3, 1, 4, 0, 1, 6 } };
-	         int row = arr.length;
-	         int col = arr[0].length;
+		for (int i = 0; i < 3; i++) {
+			for (int j = 0; j <= arr.length; j++) {
+				System.out.print(arr[i][j] + " ");
+			}
+			System.out.println();
+		}
+	}
 
-	         System.out.println(row);
-	         System.out.println(col);
-}
-	
 }
