@@ -22,7 +22,7 @@ public class MethodTask1HW {
 		int largeNumbers = obj.largerNumber(3130, 330);
 
 		System.out.println(largeNumbers);
-		
+
 	}
 
 }
