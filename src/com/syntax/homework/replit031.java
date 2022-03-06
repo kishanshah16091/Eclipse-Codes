@@ -50,13 +50,14 @@ public class replit031 {
            System.out.println("It is a sunny day, I should go somewhere!");  
            System.out.println("What is the temperature outside?");
            int temp= scan.nextInt();
-		  if( {
+		}
+		  if {
         	   System.out.println("I am going to the beach");
 		 } else if   {
 			 System.out.println("I am going to the park!");
 		 }else  {
 			 System.out.println("I stay home and practice Java!");
 		 }
-}
+	
 	}
 }
